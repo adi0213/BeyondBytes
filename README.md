@@ -10,16 +10,16 @@ The official template repository for Define 3.0
  Cover Image  If applicable
 
 ### Team Information
-- **Team Name**: <Team Name> 
+- **Team Name**: BeyondBytes 
 - **Track**: < Track >
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Ziya ] | [Team Lead] | [@ziyamoosir](https://github.com/ziyamoosir) | [Ziya](https://www.linkedin.com/in/ziya-m-a950152bb/) |
-| [Adith S] | [Developer] | [@adi0213](https://github.com/adi0213) | [Profile](https://linkedin.com/in/username) |
-| [Praful CJ] | [Developer] | [@prafulcj2015](https://github.com/prafulcj2015 ) | [Profile](https://linkedin.com/in/username) |
-| [Ramgovind] | [Presentation and Strategy Lead] | [@ramgoviind](https://github.com/ramgoviind) | [Ramgovind]([https://linkedin.com/in/username](https://www.linkedin.com/in/ram-govind-7968892a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )) |
+| Ziya  | Team Lead | @ziyamoosir(https://github.com/ziyamoosir) | Ziya(https://www.linkedin.com/in/ziya-m-a950152bb/) |
+| Adith S | Developer | @adi0213(https://github.com/adi0213) | [Profile](https://linkedin.com/in/username) |
+| Praful CJ | Developer | @prafulcj2015(https://github.com/prafulcj2015 ) | [Profile](https://linkedin.com/in/username) |
+| Ramgovind | Presentation and Strategy Lead | @ramgoviind(https://github.com/ramgoviind) | Ramgovind(https://www.linkedin.com/in/ram-govind-7968892a2/) |
 
 ## Project Details
 
