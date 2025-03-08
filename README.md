@@ -6,12 +6,12 @@ The official template repository for Define 3.0
 
 
 
-# < Project Name >
+# < VedAlert >
  Cover Image  If applicable
 
 ### Team Information
 - **Team Name**: BeyondBytes 
-- **Track**: < Track >
+- **Track**: AI in Traditional Medicine (AYUSH)
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
@@ -27,10 +27,10 @@ The official template repository for Define 3.0
 _A concise summary of your project (2-3 sentences)_
 
 ### Problem Statement
-_Describe the problem your project aims to solve_
+How can AI be used to instantly detect outbreaks and connect people with nearby AYUSH centers and relevant traditional remedies, ensuring timely action before diseases spread further?
 
 ### Solution
-_Explain your approach to solving the problem_
+We are building an AI-powered Disease Alert System that detects and verifies outbreaks using real-time data from user reports, health sources, and trends. The system sends instant alerts, displays disease hotspots on an interactive map, and provides scientifically validated AYUSH remedies tailored to detected outbreaks. Users can report symptoms, receive location-based alerts, and access nearby AYUSH centers for expert consultation. Integrated as both a mobile app and Telegram bot, our solution ensures early intervention, prevents misinformation, and promotes holistic healthcare using AI-driven insights.
 
 ### Demo
 [![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
@@ -42,17 +42,18 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Technical Implementation
 
 ### Technologies Used
-- **Frontend**: [Technologies]
-- **Backend**: [Technologies]
-- **Database**: [Technologies]
-- **APIs**: [Technologies]
-- **DevOps**: [Technologies]
+- **Frontend**: Python,Flutter,html,css
+- **Backend**: Python,node.js
+- **Database**: Sqlite,Mongodb
+- **APIs**: Telegram,geopy,bs4,pytrends,generative ai
+- **DevOps**: Github,aws
 - **Other Tools**: [Technologies]
 
 ### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Ai based Disease Alert
+- Real-Time Disease Detection & Verification
+- AYUSH-Based Preventive & Curative Remedies
+- Symptom Reporting & AI Analysis
 
 ## Setup Instructions
 
