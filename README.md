@@ -42,11 +42,11 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Technical Implementation
 
 ### Technologies Used
-- **Frontend**: Python,Flutter,html,css
+- **Frontend**: Python,Figma,html,css
 - **Backend**: Python,node.js
-- **Database**: Sqlite,Mongodb
+- **Database**: Sqlite
 - **APIs**: Telegram,geopy,bs4,pytrends,generative ai
-- **DevOps**: Github,aws
+- **DevOps**: Github
 - **Other Tools**: [Technologies]
 
 ### Key Features
