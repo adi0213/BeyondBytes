@@ -33,7 +33,7 @@ How can AI be used to predict outbreaks and connect people with nearby AYUSH cen
 We are building an AI-powered Disease Alert System that detects and verifies outbreaks using real-time data from user reports, health sources, and trends. The system sends instant alerts, displays disease hotspots on an interactive map, and provides scientifically validated AYUSH remedies tailored to detected outbreaks. Users can report symptoms, receive location-based alerts, and access nearby AYUSH centers for expert consultation. Integrated as both a mobile app and Telegram bot, our solution ensures early intervention, prevents misinformation, and promotes holistic healthcare using AI-driven insights.
 
 ### Demo
-[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[!Project Demo](https://drive.google.com/file/d/1hEnf4rd3ACDdfcqUbylahWMi_CkzgnSV/view?usp=sharing)
 _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link_
 
 ### Live Project
