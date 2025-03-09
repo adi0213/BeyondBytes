@@ -64,9 +64,13 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Setup Instructions
 
 ### Prerequisites
-- Requirement 1
-- Requirement 2
-- Requirement 3
+- Python 3.x Installed – Download from python.org.
+- Telegram Bot API Token – Get it from @BotFather on Telegram.
+- APIs & Access Keys:
+ - Mapbox API (Sign up at mapbox.com).
+ - Trends API (Ensure access for disease tracking).
+- Database – Use SQLite, Firebase (Optional), or MongoDB (Optional) if needed.
+- Deployment Platform – Set up Heroku, Railway, or AWS for hosting.
 
 ### Installation 
 ```bash
