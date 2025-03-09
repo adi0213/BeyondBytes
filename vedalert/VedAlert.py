@@ -225,7 +225,7 @@ async def simulate(update: Update, context: CallbackContext):
             response = (f"🚨 Simulated Outbreak Alert! 🚨\n\n"
                         f"⚠️ Increased cases of {disease.title()} reported in your region\n\n"
                         f"🌿 Recommended Ayurvedic Management:\n"
-                        f"• *{herb}*: {benefits}")
+                        f"• *{herb}*: {benefits}\n"f"🔗 [VedAlert](https://official_vedalert.surge.sh)")
         else:
             response = "⚠️ No disease data available for simulation"
 
@@ -234,6 +234,7 @@ async def simulate(update: Update, context: CallbackContext):
     except sqlite3.Error as e:
         logging.error(f"Database error in simulation: {e}")
         await update.message.reply_text("❌ Error accessing health records")
+    response += "🔗 [VedAlert](https://official_vedalert.surge.sh)"
 
 # Add this handler to main()
 def main():
