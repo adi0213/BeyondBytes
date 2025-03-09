@@ -34,7 +34,6 @@ We are building an AI-powered Disease Alert System that detects and verifies out
 
 ### Demo
 [!Project Demo](https://drive.google.com/file/d/1hEnf4rd3ACDdfcqUbylahWMi_CkzgnSV/view?usp=sharing)
-_Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link_
 
 ### Live Project
 [VedAlert](t.me/VedAlertBot)
