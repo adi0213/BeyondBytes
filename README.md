@@ -85,7 +85,32 @@ t.me/VedAlertBot
 ## Additional Resources
 
 ### Project Timeline
-_Brief overview of your development process and milestones_
+Ai in Ayush Advanced Disease Prediction and Ai Based Recommendation System – 24-Hour Development Schedule
+Hour 1-2: Planning & Research
+Establish the fundamental problem statement and the main features.
+Select the tech stack (Python, Telegram Bot API, NLP model, Mapbox, etc.).
+Distribute roles among team members (data management, API integration, AI model, UI/UX, testing).
+Hour 3-6: Setup & Data Collection
+Gather AYUSH-related data from available sources (government websites, research articles, FAQs).
+Preprocess and clean data for AI model training.
+Establish the development environment (bot framework, APIs, database).
+Hour 7-12: Core Development
+Develop the Telegram bot framework (message processing, user commands).
+Integrate the AI model for query answering related to AYUSH.
+Establish Mapbox API for location queries related to clinics.
+Optimize API calls to manage the Trends API rate limits.
+Hour 13-18: Testing & Debugging
+Conduct tests for response speed and accuracy.
+Resolve significant bugs and API rate limit problems.
+Maintain proper user experience and bot usability.
+Hour 19-22: Enhancements & Optimization
+Implement caching to enhance the speed of response.
+Tune AI responses to improve query handling.
+Implement logging to monitor the bot's performance.
+Hour 23-24: Final Review & Submission
+Do a complete walkthrough of the features.
+Make a short demo video or documentation for submission.
+Deploy the bot and make sure it works without hiccups.
 
 ### Challenges Faced
 Challenges Encountered & Solutions Adopted in the AYUSH Telegram Bot
@@ -108,7 +133,21 @@ Challenge: The bot had to be manually triggered since automatic updates could on
 Solution: We shifted to disease outbreak prediction through the analysis of historical trends, user reports, and other data sources for early warning.
 
 ### Future Enhancements
-_Share your vision for future development_
+Integration with Official Health Datasets
+
+Collect data from state health departments, hospitals, and private institutions.
+Detect disease outbreaks earlier with real-time, data-driven insights.
+Improve prediction accuracy by combining official reports with Google Trends data.
+Premium Model for Real-Time Data
+
+Introduce a premium version with access to reports from 50+ hospitals.
+Provide exclusive real-time alerts based on verified health records.
+Offer users immediate access to AYUSH remedies and nearby treatment centers.
+Government Collaboration & Global Expansion
+
+Partner with governments to build AI-powered national health surveillance systems.
+Collaborate with global health organizations for cross-border disease prediction.
+Establish our system as a trusted public health tool for individuals and institutions.
 
 ### References (if any)
 - [Reference 1](link)
