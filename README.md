@@ -153,8 +153,7 @@ Collaborate with global health organizations for cross-border disease prediction
 Establish our system as a trusted public health tool for individuals and institutions.
 
 ### References (if any)
-- [Reference 1](link)
-- [Reference 2](link)
+- [Reference 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6230529/#:~:text=Results,Haryana%20(r%20%3E%200.70).)
 
 ---
 
