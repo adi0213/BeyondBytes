@@ -7,7 +7,7 @@ The official template repository for Define 3.0
 
 
 # VedAlert 
- Your Gateway to Real-Time Alerts and Insights
+ ![Your Gateway to Real-Time Alerts and Insights](https://raw.githubusercontent.com/adi0213/BeyondBytes/refs/heads/main/DALL%C2%B7E%202025-03-09%2008.55.34%20-%20An%20overview%20map%20style%20image%20connecting%20various%20Ayush%20centers%20with%20routes%2C%20similar%20to%20a%20Google%20Maps%20view.%20Include%20several%20marked%20locations%20along%20the%20ro.webp)
 
 ### Team Information
 - **Team Name**: BeyondBytes 
