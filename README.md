@@ -24,7 +24,7 @@ The official template repository for Define 3.0
 ## Project Details
 
 ### Overview
-_A concise summary of your project (2-3 sentences)_
+We are developing an AI-powered Disease Alert System that analyzes Google Trends data to predict potential disease outbreaks in real-time. The system features a specialized AI chatbot, trained exclusively on AYUSH knowledge, to provide accurate traditional medicine recommendations and answer user queries. By integrating AI-driven predictions, it enhances early awareness and prevention, promoting a sustainable, data-backed approach to public health.
 
 ### Problem Statement
 How can AI be used to predict outbreaks and connect people with nearby AYUSH centers and relevant traditional remedies, ensuring timely action before diseases spread further?
@@ -54,6 +54,7 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - Real-Time Disease Detection & Verification
 - AYUSH-Based Preventive & Curative Remedies
 - Symptom Reporting & AI Analysis
+- 
 
 ## Setup Instructions
 
@@ -97,12 +98,12 @@ _Share your vision for future development_
 ---
 
 ### Submission Checklist
-- [ ] Completed all sections of this README
-- [ ] Added project demo video
-- [ ] Provided live project link
-- [ ] Ensured all team members are listed
-- [ ] Included setup instructions
-- [ ] Submitted final code to repository
+- [✅] Completed all sections of this README
+- [✅] Added project demo video
+- [✅] Provided live project link
+- [✅] Ensured all team members are listed
+- [✅] Included setup instructions
+- [✅] Submitted final code to repository
 
 ---
 
