@@ -38,6 +38,9 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 
 ### Live Project
 [VedAlert](t.me/VedAlertBot)
+
+&
+
 [Prototype](https://www.figma.com/proto/IF99NJv2WkH979Xzt7bOBt/VedAlert-Prototype?page-id=403%3A2894&node-id=518-10&p=f&viewport=-237%2C-1189%2C0.63&t=3TRzjC88Y6NStKvw-1&scaling=contain&content-scaling=fixed&starting-point-node-id=518%3A10)
 
 ## Technical Implementation
