@@ -64,7 +64,14 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 
 ### Installation 
 ```bash
-
+pip install requests
+pip install pandas
+pip install pytrends
+pip install python-telegram-bot
+pip install geopy
+pip install beautifulsoup4
+pip install google-generativeai
+pip install aiohttp
 ```
 
 ### Running the Project
