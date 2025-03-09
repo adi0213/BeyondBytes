@@ -37,7 +37,8 @@ We are building an AI-powered Disease Alert System that detects and verifies out
 _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link_
 
 ### Live Project
-[Project Name](https://your-project-url.com)
+[VedAlert](t.me/VedAlertBot)
+[Prototype](https://www.figma.com/proto/IF99NJv2WkH979Xzt7bOBt/VedAlert-Prototype?page-id=403%3A2894&node-id=518-10&p=f&viewport=-237%2C-1189%2C0.63&t=3TRzjC88Y6NStKvw-1&scaling=contain&content-scaling=fixed&starting-point-node-id=518%3A10)
 
 ## Technical Implementation
 
@@ -50,11 +51,12 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - **Other Tools**: [Technologies]
 
 ### Key Features
-- Ai based Disease Alert
+- Ai based Disease Alert and Prediction
 - Real-Time Disease Detection & Verification
 - AYUSH-Based Preventive & Curative Remedies
+- Personalized Ayush AI chatbot
 - Symptom Reporting & AI Analysis
-- 
+- Personalized & Hyper-Localized Alerts Based on GPS Location
 
 ## Setup Instructions
 
@@ -86,7 +88,24 @@ t.me/VedAlertBot
 _Brief overview of your development process and milestones_
 
 ### Challenges Faced
-_Discuss technical challenges and how you overcame them_
+Challenges Encountered & Solutions Adopted in the AYUSH Telegram Bot
+
+Lack of Official Datasets
+
+Challenge: There were no official datasets to train an AI model for AYUSH-based query answering.
+Solution: We used data from research papers, government health portals, and user-created FAQs to create a bespoke dataset.
+Trends API Limitations
+
+Challenge: The API limited the number of cross-references at a time, hindering response times.
+Solution: We made API calls more efficient by introducing caching techniques and giving priority to high-relevance queries to optimize efficiency.
+Google Maps API Access Issues
+
+Challenge: No access to Google Maps API forced us to implement Mapbox, which reduced the ease of AYUSH clinic query.
+Solution: We created a workaround by using open-source location databases and providing users with the facility to manually filter search results.
+Manual Interaction Requirement
+
+Challenge: The bot had to be manually triggered since automatic updates could only be done every X hours, rendering real-time detection of disease outbreaks impossible.
+Solution: We shifted to disease outbreak prediction through the analysis of historical trends, user reports, and other data sources for early warning.
 
 ### Future Enhancements
 _Share your vision for future development_
