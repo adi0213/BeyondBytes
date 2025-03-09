@@ -6,8 +6,8 @@ The official template repository for Define 3.0
 
 
 
-# < VedAlert >
- Cover Image  If applicable
+# VedAlert 
+ Your Gateway to Real-Time Alerts and Insights
 
 ### Team Information
 - **Team Name**: BeyondBytes 
