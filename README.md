@@ -27,7 +27,7 @@ The official template repository for Define 3.0
 _A concise summary of your project (2-3 sentences)_
 
 ### Problem Statement
-How can AI be used to instantly detect outbreaks and connect people with nearby AYUSH centers and relevant traditional remedies, ensuring timely action before diseases spread further?
+How can AI be used to predict outbreaks and connect people with nearby AYUSH centers and relevant traditional remedies, ensuring timely action before diseases spread further?
 
 ### Solution
 We are building an AI-powered Disease Alert System that detects and verifies outbreaks using real-time data from user reports, health sources, and trends. The system sends instant alerts, displays disease hotspots on an interactive map, and provides scientifically validated AYUSH remedies tailored to detected outbreaks. Users can report symptoms, receive location-based alerts, and access nearby AYUSH centers for expert consultation. Integrated as both a mobile app and Telegram bot, our solution ensures early intervention, prevents misinformation, and promotes holistic healthcare using AI-driven insights.
@@ -45,7 +45,7 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - **Frontend**: Python,Figma,html,css
 - **Backend**: Python,node.js
 - **Database**: Sqlite
-- **APIs**: Telegram,geopy,bs4,pytrends,generative ai
+- **APIs**: Telegram,geopy,bs4,pytrends,generative ai,mapbox
 - **DevOps**: Github
 - **Other Tools**: [Technologies]
 
@@ -76,7 +76,7 @@ pip install aiohttp
 
 ### Running the Project
 ```bash
-
+t.me/VedAlertBot
 ```
 
 ## Additional Resources
